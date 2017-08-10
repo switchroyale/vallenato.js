@@ -5,7 +5,7 @@ A simple jquery accordion to spice up your website content.
 This script requires jQuery to function.
 
 ## Setup
-Link to the css and js files:
+Link to the CSS and JS files:
 
 ```html
 <link rel="stylesheet" href="vallenato.css">
@@ -15,7 +15,7 @@ Link to the css and js files:
 ```
 
 ## Structure
-Setup your html like code in the example below:
+Setup your HTML like code in the example below:
 
 ```html
 <div class="vallenato">
