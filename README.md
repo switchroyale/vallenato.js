@@ -14,7 +14,7 @@ Link to the css and js files:
 <script src="vallenato.js"></script>
 ```
 
-## Run the vallenato() Function
+## Run the Function
 Simply add the vallenato() function to your site to enable the accordion.
 
 ```javascript
