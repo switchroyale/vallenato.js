@@ -14,6 +14,28 @@ Link to the css and js files:
 <script src="vallenato.js"></script>
 ```
 
+## Structure
+Setup your html like code in the example below:
+
+```html
+<div class="vallenato">
+	<div class="vallenato-header">
+		Header 1
+	</div><!--/.vallenato-header-->
+
+	<div class="vallenato-content">
+		Your Content...
+	</div><!--/.vallenato-content-->
+
+	<div class="vallenato-header">
+		Header 2
+	</div><!--/.vallenato-header-->
+
+	<div class="vallenato-content">
+		Your Content...
+	</div><!--/.vallenato-content-->
+</div><!--/.vallenato-->```
+
 ## Run the Function
 Simply add the vallenato() function to your site to enable the accordion.
 
