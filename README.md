@@ -34,7 +34,8 @@ Setup your html like code in the example below:
 	<div class="vallenato-content">
 		Your Content...
 	</div><!--/.vallenato-content-->
-</div><!--/.vallenato-->```
+</div><!--/.vallenato-->
+```
 
 ## Run the Function
 Simply add the vallenato() function to your site to enable the accordion.
