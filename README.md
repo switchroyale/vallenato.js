@@ -1,5 +1,5 @@
 # vallenato.js
-A simple jQuery accordion to spice up your website content.
+Vallenato is a simple, easy to install jQuery accordion script.
 
 [View Demo](https://www.switchroyale.com/vallenato)
 
