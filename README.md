@@ -1,5 +1,5 @@
 # vallenato.js
-A simple jQuery accordion to spice up your website content.
+A simple jQuery accordion to spice up your website content. [View Demo](https://www.switchroyale.com/vallenato)
 
 ## Dependencies
 This script requires jQuery to function.
